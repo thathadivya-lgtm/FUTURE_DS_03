@@ -220,5 +220,5 @@ This project demonstrates how data-driven analysis can identify critical funnel 
 
 * Aspiring Data Analyst
 * Skilled in Excel, Power BI, and Data Analysis
-* 📫 Connect with me on LinkedIn: [(add your link)](https://www.linkedin.com/in/divya-thatha/)
+* 📫 Connect with me on LinkedIn: [(https://www.linkedin.com/in/divya-thatha/)](https://www.linkedin.com/in/divya-thatha/)
 
